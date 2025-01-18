@@ -2,6 +2,10 @@
 
 Essa é minha primeira página HTML, a qual apresenta minhas leituras, todas da autora Colleen Hoover.
 
+## Acesse a Página na web
+
+- https://amandanvilalva.github.io/Primeira-pagina-books.html
+
 ## Descrição
 O projeto consiste em uma página web simples e responsiva, criada com HTML e CSS. O objetivo foi listar alguns dos livros que li, com breves resumos sobre eles. Os livros destacados são:
 
